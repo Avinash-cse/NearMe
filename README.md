@@ -133,7 +133,7 @@ Arani is more than a town — it's the crossroad of my journeys and the keeper o
 </html>
 ~~~
 ## OUTPUT
-
+![alt text](map.png)
 ![alt text](Tiruvannamalai.png)
 ![alt text](Paruvathamalai.png)
 ![alt text](Arni.png)
